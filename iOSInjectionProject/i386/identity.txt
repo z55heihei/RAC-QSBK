@@ -1,0 +1,2 @@
+/Users/zhangyw/Library/Developer/Xcode/DerivedData/RAC-btkzpkiunfgplbchckzuntflhazq/Build/Products/Debug-iphonesimulator/RAC.app
+

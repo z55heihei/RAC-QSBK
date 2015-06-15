@@ -1,0 +1,69 @@
+PODS:
+  - AFNetworking (2.5.3):
+    - AFNetworking/NSURLConnection (= 2.5.3)
+    - AFNetworking/NSURLSession (= 2.5.3)
+    - AFNetworking/Reachability (= 2.5.3)
+    - AFNetworking/Security (= 2.5.3)
+    - AFNetworking/Serialization (= 2.5.3)
+    - AFNetworking/UIKit (= 2.5.3)
+  - AFNetworking/NSURLConnection (2.5.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.3)
+  - AFNetworking/Security (2.5.3)
+  - AFNetworking/Serialization (2.5.3)
+  - AFNetworking/UIKit (2.5.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Archimedes (1.1)
+  - JSONKit (1.5pre)
+  - Mantle (2.0):
+    - Mantle/extobjc (= 2.0)
+  - Mantle/extobjc (2.0)
+  - Masonry (0.6.1)
+  - MMProgressHUD (0.3.1)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - ReactiveCocoaLayout (0.4):
+    - Archimedes
+    - ReactiveCocoa (~> 2.0)
+  - ReactiveViewModel (0.3):
+    - ReactiveCocoa (~> 2.4)
+  - SDWebImage (3.7.2):
+    - SDWebImage/Core (= 3.7.2)
+  - SDWebImage/Core (3.7.2)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.5.3)
+  - JSONKit (~> 1.5pre)
+  - Mantle (~> 2.0)
+  - Masonry (~> 0.6.1)
+  - MMProgressHUD (~> 0.3.1)
+  - ReactiveCocoa (= 2.5)
+  - ReactiveCocoaLayout (~> 0.4)
+  - ReactiveViewModel (~> 0.3)
+  - SDWebImage (~> 3.7.2)
+
+SPEC CHECKSUMS:
+  AFNetworking: e1d86c2a96bb5d2e7408da36149806706ee122fe
+  Archimedes: a181c40a4de8d6bb8ee21bb0f89e9cd758fbb3ce
+  JSONKit: bae313ce6a6c444f40489a6c0b023f399888871f
+  Mantle: d7c75b6fb789b20f7ae30cd0d09435fe545896ff
+  Masonry: 4972309f2f134de9dd312f4dc4a21359b50e6caa
+  MMProgressHUD: dac2655d62d28e7d6dc28bf72d9531a4d4c62459
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  ReactiveCocoaLayout: d4bf94128119e5c56ba7425a296d58e1e9a4d7da
+  ReactiveViewModel: 58918dcbcec2d3151195ab1ed9163c57a8163999
+  SDWebImage: 71b7cdc1d1721d6a82ed62889030225f2c249e29
+
+COCOAPODS: 0.37.1
